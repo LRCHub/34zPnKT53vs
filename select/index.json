@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Die Job",
+  "base_artist": "Ryo Umekawa",
+  "createdAt": "2026-02-08T13:16:28.156010Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Die Job",
+      "artist": "Ryo Umekawa",
+      "has_synced": false,
+      "path": "select/pl_01_Die_Job_Ryo_Umekawa.txt"
+    }
+  ]
+}
